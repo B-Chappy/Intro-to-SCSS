@@ -1,0 +1,29 @@
+/*how to stop watch sass:
+name.scss
+_name.scss
+go to line 1 
+@import "_name.scss";
+
+/*SPECIFY HEIGHT AND     WIDTH FOR BOX CLASS
+align-items: center;
+maybe let container cover entire screen
+display:flex;
+flex-direction:column
+justify-content:space-around; or space-evenly; or space-between;
+container margin: 0 auto; /*Centers container
+/***
+bygytvcy*/
+box-sizing: border-box;
+/*BELOW DOES NOT WORK
+.Container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background-color: greenyellow;
+}
+
+.Box1 {
+  background: orange;
+  color: blue;
+}
+*/
