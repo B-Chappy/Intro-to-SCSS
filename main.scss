@@ -1,8 +1,9 @@
 @import url("mixins.scss");
-body {
+
+html {
   background-size: cover;
   background: greenyellow;
 }
-.h1 {
+.header-main {
   @include flex-col-center;
 }
